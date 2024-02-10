@@ -6,7 +6,7 @@
   + Bachelor of Information Technology (IT) @ [Otago Polytechnic](https://www.op.ac.nz/) New Zealand
 
 **💡 Current Interests & Learning**
-  + Single-handedly crafting an e-commerce website (front-end, back-end, middleware, databases, and all) using the innovative Java runtime, [Bun.js](https://bun.sh/)
+  + Single-handedly crafting an e-commerce website (front-end, back-end, middleware, databases, and all) using the innovative JavaScript runtime, [Bun.js](https://bun.sh/)
   + Self studying for [AWS Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 <!-- GitHub statistics from https://github.com/anuraghazra/github-readme-stats -->
