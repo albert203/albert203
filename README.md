@@ -36,7 +36,7 @@
 ![User Acceptance Testing](https://img.shields.io/badge/user%20acceptance%20testing-cyan?style=for-the-badge&logo=UAT&logoColor=white)
 ![Regression Testing](https://img.shields.io/badge/regression%20testing-teal?style=for-the-badge&logo=regression&logoColor=white)
 
-## Frameworks:
+## Frameworks
 
 ![Flask](https://img.shields.io/badge/flask-%2327AE60.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
